@@ -20,7 +20,11 @@
   <tr>
     <td>RPI</td>
     <td>✅</td>
-    <td></td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>RPI2</td>
