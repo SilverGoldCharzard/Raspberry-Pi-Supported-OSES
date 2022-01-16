@@ -45,8 +45,8 @@
   <tr>
     <td>RPI3A/B+</td>
     <td>❌</td>
-    <td></td>
-    <td></td>
+    <td>❌</td>
+    <td>4.14+ ✅</td>
     <td></td>
     <td></td>
   </tr>
@@ -54,15 +54,24 @@
     <td>RPI4</td>
     <td>❌</td>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 <tr>
     <td>RPI0</td>
     <td>❌</td>
     <td>4.9+ ✅</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>RPI0 2W</td>
     <td>❌</td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
