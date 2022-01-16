@@ -12,8 +12,8 @@
 
 <table style="width:100%">
   <tr>
-    <th>RPI3</th>
-    <th>RPI4</th>
+    <th>Raspberry Pi OS Versions</th>
+    <th></th>
     <th></th>
   </tr>
   <tr>
