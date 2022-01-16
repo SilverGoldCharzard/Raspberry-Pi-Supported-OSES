@@ -37,7 +37,7 @@
   <tr>
     <td>RPI3</td>
     <td>❌</td>
-    <td></td>
+    <td>4.1+ ✅</td>
     <td></td>
     <td></td>
     <td></td>
