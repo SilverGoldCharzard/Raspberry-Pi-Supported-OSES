@@ -13,8 +13,12 @@
 <table style="width:100%">
   <tr>
     <th>Raspberry Pi OS Versions</th>
-    <th></th>
-    <th></th>
+    <th>Wheezy</th>
+    <th>Jessie</th>
+    <th>Stretch</th>
+    <th>Buster</th>
+    <th>Bullseye</th>
+    <th>Sid</th>
   </tr>
   <tr>
     <td>RPI3</td>
