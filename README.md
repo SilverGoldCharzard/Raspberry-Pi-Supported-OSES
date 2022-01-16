@@ -17,14 +17,14 @@
     <th></th>
   </tr>
   <tr>
-    <td>Raspberry Pi OS Stretch</td>
-    <td>Raspberry Pi OS Buster</td>
-    <td>Germany</td>
+    <td>RPI4</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
