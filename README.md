@@ -53,10 +53,10 @@
   <tr>
     <td>RPI4</td>
     <td>❌</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>4.19+ ✅</td>
+    <td>✅</td>
   </tr>
 <tr>
     <td>RPI0</td>
@@ -69,10 +69,10 @@
   <tr>
     <td>RPI0 2W</td>
     <td>❌</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>5.10.17+ ✅</td>
+    <td>✅</td>
   </tr>
 </table>
 
