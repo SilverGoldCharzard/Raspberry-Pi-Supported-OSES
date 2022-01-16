@@ -11,7 +11,7 @@
   <tr>
     <th>Raspberry Pi OS Versions 32bit</th>
     <th> <a href="https://downloads.raspberrypi.org/raspbian/images/raspbian-2015-05-07/2015-05-05-raspbian-wheezy.zip">Wheezy</a> </th>
-    <th>Jessie</th>
+    <th> <a href="https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-07-05/2017-07-05-raspbian-jessie.zip">Jessie</a></th>
     <th>Stretch</th>
     <th>Buster</th>
     <th>Bullseye</th>
