@@ -38,6 +38,17 @@
     <td>RPI3</td>
     <td>❌</td>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RPI3A/B+</td>
+    <td>❌</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>RPI4</td>
