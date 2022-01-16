@@ -10,7 +10,6 @@
 <table style="width:100%">
   <tr>
     <th>Raspberry Pi OS Versions 32bit</th>
-    
     <th>Wheezy</th>
     <th>Jessie</th>
     <th>Stretch</th>
