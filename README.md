@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1> Unsupported Raspberry Pi OS</h1>
-<p>Install Unsupported Raspberry Pi OS on RPI3 and RPI4:</p>
+<h1> Raspberry Pi Oses</h1>
+<p>What Oses you can install on your Raspberry Pi:</p>
 
 <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="raspberrypilogo" width="104" height="142">
 
