@@ -21,12 +21,32 @@
     <th>Sid</th>
   </tr>
   <tr>
+    <td>RPI</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RPI2</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>RPI3</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>RPI4</td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>RPI0</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RPI0 2W</td>
     <td></td>
     <td></td>
   </tr>
