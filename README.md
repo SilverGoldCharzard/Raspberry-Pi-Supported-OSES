@@ -17,12 +17,12 @@
     <th></th>
   </tr>
   <tr>
-    <td>RPI4</td>
+    <td>RPI3</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>RPI4</td>
     <td></td>
     <td></td>
   </tr>
