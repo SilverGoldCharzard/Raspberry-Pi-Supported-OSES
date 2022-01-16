@@ -9,8 +9,8 @@
 
 <table style="width:100%">
   <tr>
-    <th>Raspberry Pi OS Versions</th>
-    <th>Wheezy</th>
+    <th>Raspberry Pi OS Versions 32bit</th>
+    <th <a href="url">link text</a> >Wheezy</th>
     <th>Jessie</th>
     <th>Stretch</th>
     <th>Buster</th>
