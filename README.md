@@ -11,7 +11,7 @@
   <tr>
     <th>Raspberry Pi OS Versions 32bit</th>
     
-<a href="https://www.google.com/">Wheezy<th>Wheezy</th>
+<a> <th href="https://www.google.com/">Wheezy<th>Wheezy</th> <a/>
     <th>Jessie</th>
     <th>Stretch</th>
     <th>Buster</th>
