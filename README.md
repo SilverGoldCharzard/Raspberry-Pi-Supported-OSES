@@ -62,9 +62,9 @@
     <td>RPI0</td>
     <td>❌</td>
     <td>4.9+ ✅</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>RPI0 2W</td>
