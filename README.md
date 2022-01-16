@@ -13,8 +13,8 @@
     <th> <a href="https://downloads.raspberrypi.org/raspbian/images/raspbian-2015-05-07/2015-05-05-raspbian-wheezy.zip">Wheezy</a> </th>
     <th> <a href="https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-07-05/2017-07-05-raspbian-jessie.zip">Jessie</a></th>
     <th> <a href="http://downloads.raspberrypi.org/raspbian/images/raspbian-2019-04-09/2019-04-08-raspbian-stretch.zip">Stretch</a></th>
-    <th>Buster</th>
-    <th>Bullseye</th>
+    <th> <a href="http://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2021-12-02/2021-12-02-raspios-buster-armhf.zip">Buster</a></th>
+    <th> <a href="http://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip">Bullseye</a></th>
     <th>Sid</th>
   </tr>
   <tr>
