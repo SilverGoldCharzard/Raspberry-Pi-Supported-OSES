@@ -1,24 +1,5 @@
 <!DOCTYPE html>
 <html>
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
-}
-      table {
-        border-style: ridge;
-        border-color: #8ebf42;
-        background-color: #d9d9d9;
-      }
-      th {
-        border: 5px solid #095484;
-      }
-      td {
-        border: 20px groove #1c87c9;
-      }
-    </style>
 <body>
 
 <h1 class="center" style="color:blue;"> Raspberry Pi OSES</h1>
