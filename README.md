@@ -1,11 +1,33 @@
 <!DOCTYPE html>
 <html>
+<style>
+body {
+            background-image: url("https://wallpaperaccess.com/full/1597983.jpg");
+         }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+      table {
+        border-style: ridge;
+        border-color: #8ebf42;
+        background-color: #d9d9d9;
+      }
+      th {
+        border: 5px solid #095484;
+      }
+      td {
+        border: 20px groove #1c87c9;
+      }
+    </style>
 <body>
 
-<h1> Raspberry Pi Oses</h1>
-<p>What Oses you can install on your Raspberry Pi:</p>
+<h1 class="center" style="color:blue;"> Raspberry Pi OSES</h1>
+<p class="center" style="color:red;">What Oses you can install on your Raspberry Pi</p>
 
-<img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="raspberrypilogo" width="104" height="142">
+<img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="raspberrypilogo" style="width:100px;height:100px;" class="center">
 
 <table style="width:100%">
   <tr>
@@ -19,60 +41,60 @@
   </tr>
   <tr>
     <td>RPI</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
+    <td>supported</td>
+    <td>supported</td>
+    <td>supported</td>
+    <td>supported</td>
+    <td>supported</td>
     <td></td>
   </tr>
   <tr>
     <td>RPI2</td>
-    <td>3.18+ ✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
+    <td>3.18+ supported</td>
+    <td>supported</td>
+    <td>supported</td>
+    <td>supported</td>
+    <td>supported</td>
   </tr>
   <tr>
     <td>RPI3</td>
-    <td>❌</td>
-    <td>4.1+ ✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
+    <td>unsupported</td>
+    <td>4.1+ supported</td>
+    <td>supported</td>
+    <td>supported</td>
+    <td>supported</td>
   </tr>
   <tr>
     <td>RPI3A/B+</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>4.14+ ✅</td>
-    <td>✅</td>
-    <td>✅</td>
+    <td>unsupported</td>
+    <td>unsupported</td>
+    <td>4.14+ supported</td>
+    <td>supported</td>
+    <td>supported</td>
   </tr>
   <tr>
     <td>RPI4</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>4.19+ ✅</td>
-    <td>✅</td>
+    <td>unsupported</td>
+    <td>unsupported</td>
+    <td>unsupported</td>
+    <td>4.19+ supported</td>
+    <td>supported</td>
   </tr>
 <tr>
     <td>RPI0</td>
-    <td>❌</td>
-    <td>4.9+ ✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
+    <td>unsupported</td>
+    <td>4.9+ supported</td>
+    <td>supported</td>
+    <td>supported</td>
+    <td>supported</td>
   </tr>
   <tr>
     <td>RPI0 2W</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>5.10.17+ ✅</td>
-    <td>✅</td>
+    <td>unsupported</td>
+    <td>unsupported</td>
+    <td>unsupported</td>
+    <td>5.10.17+ supported</td>
+    <td>supported</td>
   </tr>
 </table>
 
