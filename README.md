@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 <style>
-body {
-            background-image: url("https://wallpaperaccess.com/full/1597983.jpg");
-         }
 .center {
   display: block;
   margin-left: auto;
